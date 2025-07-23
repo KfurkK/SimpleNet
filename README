@@ -1,3 +1,3 @@
-## The point: Understanding What happens behind the curtains
+### The point: Understanding What happens behind the curtains
 This repository is a personal deep dive into the low-level mechanics of deep learning. The goal is to understand what's really happening under the hood of popular libraries like PyTorch — by exploring and implementing core concepts from scratch.
 - So far, linear layers and some activation functions are implemented. More to come...
